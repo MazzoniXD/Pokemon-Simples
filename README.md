@@ -1,4 +1,4 @@
-# Pokemon-Simples
+# Pokemon Simples
 
 Um projeto que fiz na escola em 2018 no que precisava fazer um simples jogo relacionado a Pokemon.
 
